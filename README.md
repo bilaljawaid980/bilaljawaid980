@@ -19,3 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaljawaid980&layout=compact&theme=github_dark" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilaljawaid980&theme=github_dark" />
+</p>
