@@ -25,11 +25,9 @@
   />
 </p>
 
-<br>
-
-<!-- 🔥 REAL ANIMATED ACTIVITY GIF -->
+<!-- Clean Activity Graph (minimal + premium, not colorful) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bilaljawaid980/bilaljawaid980/main/assets/activity.gif" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaljawaid980&theme=github-compact&hide_border=true&area=true&line=6C63FF&point=6C63FF&area_color=6C63FF&bg_color=0D1117&color=C9D1D9" />
 </p>
 
 <br>
