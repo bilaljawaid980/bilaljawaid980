@@ -1,33 +1,52 @@
+<!-- Header (clean + consistent accent) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bilal+Jawaid;Blockchain+Developer;Web3+%7C+DeFi+%7C+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Bilal+Jawaid;Blockchain+Developer;Web3+%7C+DeFi+%7C+DevOps+Enthusiast" />
+</p>
+
+<!-- Subtle divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6&section=header" />
 </p>
 
 <br>
 
+<!-- Profile Views (not dull, not too bright) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Visitor%20Counter-6C63FF?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilaljawaid980&color=6C63FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=bilaljawaid980&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
 </p>
 
 <br>
 
+<!-- Stats (same theme everywhere) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bilaljawaid980&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bilaljawaid980&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9"
     height="170"
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=bilaljawaid980&theme=github-dark&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" 
+  <img
+    src="https://streak-stats.demolab.com?user=bilaljawaid980&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e"
     height="170"
   />
 </p>
 
-<!-- Clean Activity Graph (minimal + premium, not colorful) -->
+<br>
+
+<!-- Better Graph (premium, not colorful) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaljawaid980&theme=github-compact&hide_border=true&area=true&line=6C63FF&point=6C63FF&area_color=6C63FF&bg_color=0D1117&color=C9D1D9" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bilaljawaid980&hide_border=true&bg_color=0d1117&color=c9d1d9&line=8B5CF6&point=8B5CF6&area=true&area_color=8B5CF6"
+    alt="Activity Graph"
+  />
+</p>
+
+<br>
+
+<!-- Top Languages (compact + consistent) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaljawaid980&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=c9d1d9"
+    height="150"
+  />
 </p>
 
 <br>
@@ -36,6 +55,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilal-jawaid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
