@@ -1,18 +1,22 @@
-<h1 align="center">Bilal Jawaid</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bilal+Jawaid;Blockchain+Developer;Web3+%7C+DeFi+%7C+DevOps+Enthusiast" />
+</p>
+
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilaljawaid980&label=PROFILE+VIEWS&color=0f172a&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=bilaljawaid980&label=👁+Profile+Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 <br>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=bilaljawaid980&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=bilaljawaid980&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
     height="170"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=bilaljawaid980&theme=github-dark&hide_border=true&cache_seconds=1800" 
+    src="https://streak-stats.demolab.com?user=bilaljawaid980&theme=github-dark&hide_border=true" 
     height="170"
   />
 </p>
