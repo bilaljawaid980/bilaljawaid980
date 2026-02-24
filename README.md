@@ -29,10 +29,10 @@
 
 <br>
 
-<!-- Clean Contribution Calendar (Stable) -->
+<!-- Contribution Calendar (Stable: generated in your repo as assets/metrics.svg) -->
 <p align="center">
   <img
-    src="https://github-contributions-api.jogruber.de/v4/bilaljawaid980?format=svg&theme=dark"
+    src="https://raw.githubusercontent.com/bilaljawaid980/bilaljawaid980/main/assets/metrics.svg"
     alt="Contribution Calendar"
   />
 </p>
