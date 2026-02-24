@@ -1,0 +1,39 @@
+name: Animated Activity GIF
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install requests matplotlib imageio pillow
+
+      - name: Generate animated GIF
+        env:
+          GH_USER: bilaljawaid980
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_activity_gif.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/activity.gif
+          git commit -m "update activity gif" || exit 0
+          git push
