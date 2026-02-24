@@ -25,9 +25,11 @@
   />
 </p>
 
-<!-- 🔥 Premium Activity Graph (Option A) -->
+<br>
+
+<!-- 🔥 REAL ANIMATED ACTIVITY GIF -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaljawaid980&theme=tokyo-night&hide_border=true&area=true&color=6C63FF" />
+  <img src="https://raw.githubusercontent.com/bilaljawaid980/bilaljawaid980/main/assets/activity.gif" />
 </p>
 
 <br>
