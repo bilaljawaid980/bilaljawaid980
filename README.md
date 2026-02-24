@@ -19,7 +19,7 @@
 
 <br>
 
-<!-- Contribution Visualization + Side Stats -->
+<!-- Contribution Stats Panel -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=bilaljawaid980&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e"
@@ -27,10 +27,13 @@
   />
 </p>
 
+<br>
+
+<!-- Clean Contribution Calendar (Stable) -->
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/8B5CF6/bilaljawaid980"
-    alt="GitHub Contribution Chart"
+    src="https://github-contributions-api.jogruber.de/v4/bilaljawaid980?format=svg&theme=dark"
+    alt="Contribution Calendar"
   />
 </p>
 
