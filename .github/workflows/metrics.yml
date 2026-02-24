@@ -1,0 +1,29 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics (includes contribution calendar)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: bilaljawaid980
+
+          template: classic
+          base: header, activity, community
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          config_timezone: Asia/Karachi
+          config_display: large
