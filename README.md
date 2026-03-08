@@ -21,24 +21,11 @@
 
 <br>
 
----
-
-## 🧠 Languages & Technologies
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaljawaid980&layout=compact&theme=github_dark&hide_border=true&langs_count=10&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaljawaid980&layout=donut&theme=github_dark&hide_border=true&langs_count=8&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilaljawaid980&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilaljawaid980&theme=github_dark" />
-</p>
-
----
+<br>
 
 <h3 align="center">Connect with Me</h3>
 
