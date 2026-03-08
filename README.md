@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaljawaid980&layout=compact&theme=github_dark&hide_border=true&langs_count=10&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilaljawaid980&theme=github_dark" />
 </p>
 
 <br>
